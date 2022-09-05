@@ -6,6 +6,7 @@ formulario.addEventListener('submit' , function(e){
 
     //url da pesquisa
     let urlForm = "https://pokeapi.co/api/v2/pokemon/";
+    
     //valor do imput name
     let nome =  document.getElementById("name")
 
